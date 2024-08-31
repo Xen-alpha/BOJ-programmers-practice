@@ -21,5 +21,11 @@
 - [ ] [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) ( )
 - [ ] [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) ( )
 ### SQL
+- [x] [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) (2024-02-08)
+- [x] [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) (2024-02-08)
+- [x] [12세 이하인 여자 환자 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132201) (2024-02-08)
+- [x] [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120) (2024-02-08)
+- [x] [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027) (2024-02-10)
+- [x] [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) (2024-02-18)
 ## 백준
 - [ ] 
