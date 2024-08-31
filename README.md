@@ -19,6 +19,7 @@
 - [x] [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105) (2024-05-10, C++)
 - [x] [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895) (2024-05-10, C++)
 - [ ] [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) ( )
+- [ ] [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) ( )
 ### SQL
 ## 백준
 - [ ] 
