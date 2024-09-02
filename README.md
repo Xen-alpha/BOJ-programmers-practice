@@ -27,6 +27,10 @@
 - [x] [3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120) (2024-02-08)
 - [x] [주문량이 많은 아이스크림들 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/133027) (2024-02-10)
 - [x] [조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854) (2024-02-18)
+- [x] [자동차 평균 대여 기간](https://school.programmers.co.kr/learn/courses/30/lessons/157342) (2024-09-01)
+- [x] [조회수가 가장 많은 중고거래 게시글 조회](https://school.programmers.co.kr/learn/courses/30/lessons/164671) (2024-09-02)
+- [x] [루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) (2024-09-01)
+- [x] [이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047) (2024-09-01)
 ## 백준
 ### 2024년 3월까지 푼 문제
 1000 1001 1002 1004 1240 1717 1725 1758 1834 1931 1992 2292 2447 2557 2587 2630 2653 2705 2720 2741 2742 2745 2750 2751 2753 2839 2869 2903 4920 6550 8393 10998 11005 11655 12605 12865 20205 23303 23304 23810 24723 24724 24725 27930 27932 1769
