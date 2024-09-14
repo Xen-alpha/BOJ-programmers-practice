@@ -21,7 +21,7 @@
 - [x] [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) (2024-09-05, Python)
 - [x] [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) (2024-09-11, Javascript)
 - [x] [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) (2024-09-12, Javascript)
-- [ ] [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) ( )
+- [ ] [퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021) (연기됨)
 ### SQL
 - [x] [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) (2024-02-08)
 - [x] [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536) (2024-02-08)
