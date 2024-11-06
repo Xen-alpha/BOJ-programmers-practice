@@ -1,8 +1,8 @@
 # BOJ-programmers-algorithm
 백준 && 프로그래머스 알고리즘 기록
 
-주 사용 언어: C++11, Python
-보조 사용 언어: Javascript, C99
+주 사용 언어: C++11, Javascript
+보조 사용 언어: Python, C99
 ## 프로그래머스
 ### 프로그래밍
 - [x] [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) (2024-05-04, C++)
