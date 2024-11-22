@@ -23,7 +23,9 @@
 - [x] [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) (2024-09-12, Javascript)
 - [x] [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) (2024-09-18, Javascript)
 - [x] [길 찾기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/42892) (2024-11-06, Javascript)
-- [x] [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) (2024-11-13, Javascript) 
+- [x] [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) (2024-11-13, Javascript)
+- [x] [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) (2024-11-22, Javascript)
+- [x] [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) (2024-11-22, Javascript)
 - [ ] ~~[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)~~ (연기됨)
 ### SQL
 - [x] [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) (2024-02-08)
