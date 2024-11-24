@@ -29,9 +29,9 @@
 - [ ] ~~[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)~~ (연기됨)
 
 #### Java 연습용
-- [x][배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) (2024-11-24)
-- [x][배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918) (2024-11-24)
-- [x][배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) (2024-11-25)
+- [x] [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) (2024-11-24)
+- [x] [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918) (2024-11-24)
+- [x] [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) (2024-11-25)
 
 ### SQL
 - [x] [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) (2024-02-08)
