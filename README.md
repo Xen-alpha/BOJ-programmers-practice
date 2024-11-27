@@ -32,6 +32,10 @@
 - [x] [배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921) (2024-11-24)
 - [x] [배열 만들기 4](https://school.programmers.co.kr/learn/courses/30/lessons/181918) (2024-11-24)
 - [x] [배열 만들기 5](https://school.programmers.co.kr/learn/courses/30/lessons/181912) (2024-11-25)
+- [x] [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584) (2024-11-27)
+  - 제일 애를 먹었음: 스택을 pop할 때 2번 이상 계속 pop해야 하는 상황을 상정하지 못함
+- [x] [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) (2024-11-27)
+- [x] [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) (2024-11-27)
 
 ### SQL
 - [x] [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) (2024-02-08)
