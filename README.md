@@ -48,6 +48,14 @@
 - [x] [조회수가 가장 많은 중고거래 게시글 조회](https://school.programmers.co.kr/learn/courses/30/lessons/164671) (2024-09-02)
 - [x] [루시와 엘라 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59046) (2024-09-01)
 - [x] [이름에 el이 들어가는 동물 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59047) (2024-09-01)
+- [x] [상품을 구매한 회원 비율 구하기
+](https://school.programmers.co.kr/learn/courses/30/lessons/131534)
+- [x] [보호소에서 중성화한 동물
+](https://school.programmers.co.kr/learn/courses/30/lessons/59045)
+- [x] [카테고리 별 도서 판매량 집계하기
+](https://school.programmers.co.kr/learn/courses/30/lessons/144855)
+- [x] [있었는데요 없었습니다
+](https://school.programmers.co.kr/learn/courses/30/lessons/59043)
 ## 백준
 ### 2024년 3월까지 푼 문제
 1000 1001 1002 1004 1240 1717 1725 1758 1834 1931 1992 2292 2447 2557 2587 2630 2653 2705 2720 2741 2742 2745 2750 2751 2753 2839 2869 2903 4920 6550 8393 10998 11005 11655 12605 12865 20205 23303 23304 23810 24723 24724 24725 27930 27932 1769
