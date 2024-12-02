@@ -1,12 +1,12 @@
 # BOJ-programmers-algorithm
 백준 && 프로그래머스 알고리즘 기록
 
-주 사용 언어: C++11, Javascript
+주 사용 언어: C++11, Javascript, Java
 보조 사용 언어: Python, C99
 ## 프로그래머스
 ### 프로그래밍
 - [x] [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) (2024-05-04, C++)
-- [x] [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) (2024-05-04, C++)
+- [x] [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) (2024-05-04, C++ / 2024-12-02, Java)
 - [x] [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) (2024-08-20, Python)
 - [x] [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) (2024-08-31, Python)
 - [x] [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) (2024-08-29, Python)
@@ -36,6 +36,7 @@
   - 제일 애를 먹었음: 스택을 pop할 때 2번 이상 계속 pop해야 하는 상황을 상정하지 못함
 - [x] [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587) (2024-11-27)
 - [x] [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) (2024-11-27)
+- [x] [의상] (https://school.programmers.co.kr/learn/courses/30/lessons/42578) (2024-12-02)
 
 ### SQL
 - [x] [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) (2024-02-08)
