@@ -26,6 +26,7 @@
 - [x] [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) (2024-11-13, Javascript)
 - [x] [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) (2024-11-22, Javascript)
 - [x] [등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898) (2024-11-22, Javascript)
+- [x] [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) (2025-01-05, C++)
 - [ ] ~~[퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)~~ (연기됨)
 
 #### Java 연습용
