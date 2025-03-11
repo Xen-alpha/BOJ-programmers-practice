@@ -1,8 +1,16 @@
 # BOJ-programmers-algorithm
 백준 && 프로그래머스 알고리즘 기록
 
-주 사용 언어: C++11, Javascript, Java
-보조 사용 언어: Python, C99
+<div align = "center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xen-alpha)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xen-alpha&layout=compact&hide=html,jupyter%20notebook,scss,css,shell)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hky7548)](https://solved.ac/hky7548) 
+
+</div>
+
+주 사용 언어: C++11, Javascript, C99
+보조 사용 언어: Python, Java
 ## 프로그래머스
 ### 프로그래밍
 - [x] [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) (2024-05-04, C++)
