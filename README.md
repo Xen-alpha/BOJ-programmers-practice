@@ -3,9 +3,9 @@
 
 <div align = "center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xen-alpha)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Xen-alpha)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xen-alpha&layout=compact&hide=html,jupyter%20notebook,scss,css,shell)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hky7548)](https://solved.ac/hky7548) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xen-alpha&layout=compact&hide=html,jupyter%20notebook,scss,css,shell)](https://github.com/anuraghazra/github-readme-stats) [
 
 </div>
 
