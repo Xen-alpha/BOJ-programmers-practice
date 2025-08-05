@@ -47,6 +47,7 @@
 - [x] [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) (2024-11-27)
 - [x] [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) (2024-12-02)
 - [x] [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) (2025-01-16)
+- [x] [아이템 줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694) (2025-08-05)
 
 ### SQL
 - [x] [오프라인/온라인 판매 데이터 통합하기](https://school.programmers.co.kr/learn/courses/30/lessons/131537) (2024-02-08)
@@ -74,3 +75,4 @@
 27931
 ### 아직 못 푼 거
 1933 3319 9322 10815 14267 15683 15722 23305 27231 30188
+
